@@ -1,0 +1,19 @@
+{
+  "name": "lambda-evaluator",
+  "version": "1.0.0",
+  "description": "A simple call-by-value JavaScript interpreter for the untyped lambda calculus",
+  "main": "lambda_evaluator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "calculus",
+    "javascript"
+  ],
+  "author": "Romuald THION",
+  "license": "ISC",
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  }
+}
